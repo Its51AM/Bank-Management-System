@@ -1,1 +1,1 @@
-project bank management system
+This Bank Management System is built using Java, Java Swing for GUI, and MySQL for the database. It allows users to create accounts, log in securely, deposit and withdraw money, check balances, view transaction history, and change PINs. Admins can manage all customer accounts. The system connects to the database and is developed in IntelliJ IDEA. It aims to provide a safe, easy, and user-friendly banking experience with proper error handling and a clean interface.
